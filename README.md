@@ -1,1 +1,1 @@
-# dsn-2026-bootcamp
+This repository contains my solution to the Big Mart Sales Prediction challenge, completed as part of the Machine Learning Track of the Data Science Nigeria (DSN) 2026 Bootcamp Qualification Hackathon.
